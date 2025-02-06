@@ -1,4 +1,4 @@
-#  US Household Income Data 
+#  US Household Income Analysis
 
 ### Project Overview
 
@@ -99,7 +99,6 @@ LIMIT 10
 ;
 ```
 
-### Results/Findings
 
 
 
